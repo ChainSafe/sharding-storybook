@@ -1,0 +1,1 @@
+{"version":3,"file":"main.b8ce49765bc01e51e9d2.bundle.js","sources":["webpack:///./stories/ssz/home.js"],"sourcesContent":["import React from 'react';\n\nexport default class Home extends React.Component {\n\trender() {\n\t\treturn (\n\t\t\t<h1>SSZ Intro</h1>\n\t\t)\n\t}\n}\n"],"mappings":"AAEA","sourceRoot":""}
